@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D22B2B&height=150&section=header&text=Hi%20,%20I'm%20Deven&fontSize=70" />
 About Me
-<div style="display:flex; width:800px; border:1px solid #ddd; align-items:center;">
+<div style="display:flex; flex-direction:row; width:800px; border:1px solid #ddd; align-items:center;">
   <div>
     <ul>
       <li>Deven</li>
