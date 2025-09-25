@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D22B2B&height=150&section=header&text=Hi%20,%20I'm%20Deven&fontSize=70" />
-<div align="center">
-
-  <div align="left" style="display:inline-block;">
+<p>
+  <span align="left">
     <ul>
       <li>Deven</li>
       <li>Was</li>
       <li>Here</li>
     </ul>
-  </div>
+  </span>
 
-  <div align="right" style="display:inline-block;">
+  <span align="right">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBwZmpqOW5nZm9kYzZocWtrNm5mNHBpc2c1d2YzdjNvOHJnMHpwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="250" />
-  </div>
+  </span>
+</p>
 
-</div>
 
 
