@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=_hexcode#D22B2B&height=150&section=header&text=Hi%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=_hexcodeD22B2B&height=150&section=header&text=Hi%20&fontSize=90" />
